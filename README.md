@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pranav Walimbe</h1>
 
-  <h3 align="center">Data Science @ UC Berkeley</h3>
+  <h3 align="center">Studying data science @ UC Berkeley</h3>
   <h3 align="center">Interested in multimodal ML, geospatial ML, and distributed systems</h3>
 
   <br/>
